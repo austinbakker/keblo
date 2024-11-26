@@ -1317,6 +1317,7 @@ a {
 
 .button.headerbutton {
   margin-left: 77px;
+  display: none;
 }
 
 .button.buttoncontact {
